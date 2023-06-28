@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "htm2txt"]
 	path = htm2txt
 	url = https://github.com/replicable/htm2txt
-	shallow = true
-	registered = true
